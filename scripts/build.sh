@@ -1,6 +1,6 @@
 #!/bin/bash
 WEBSERVER_DIR="/var/www/html/belfilm/"
-SITE_DIR="public/"
+SITE_DIR="docs/"
 PROJECT_DIR="/home/pi/belfilm/"
 
 cd $PROJECT_DIR; cd assets && listdirs img/ | shuf | head -n 50 > randomImages; cd $PROJECT_DIR;

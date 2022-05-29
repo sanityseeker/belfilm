@@ -3,9 +3,11 @@ languageCode = 'en-us'
 title = 'belfilm'
 theme = "hugo-theme-console"
 timeout = 10000000
+publishDir = "docs"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
 
