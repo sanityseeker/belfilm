@@ -1,4 +1,4 @@
-baseURL = 'https:/sanityseeker.github.io/belfilm/'
+baseURL = 'https:/sanityseeker.github.io/belfilm'
 languageCode = 'en-us'
 title = 'belfilm'
 theme = "hugo-theme-console"
@@ -9,5 +9,4 @@ publishDir = "docs"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
 
