@@ -1,4 +1,4 @@
-baseURL = 'https:/sanityseeker.github.io/belfilm/docs/'
+baseURL = 'https:/sanityseeker.github.io/belfilm/'
 languageCode = 'en-us'
 title = 'belfilm'
 theme = "hugo-theme-console"
