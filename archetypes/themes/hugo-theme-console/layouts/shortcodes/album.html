@@ -1,0 +1,17 @@
+<!-- put bunch of photos in /photos/img/albumName -->
+<!-- and insert shortcode "album albumName" in blogpost.md -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+
+<!-- {{ range .Site.Params.customCSS -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }} -->
+
+{{ $albumUrl := print "/assets/img/" ($.Get 0) }}
+{{ range readDir $albumUrl }}
+    {{ $imgUrl := print "img/" ($.Get 0) "/" .Name}}
+    {{ $src := resources.Get (print $imgUrl) }} 
+	{{ $resized := $src.Resize "700x q100"}}
+	<a href="{{ $src.Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" style="width:30%; max-width:650px; padding:2px; display:inline" loading="lazy"></a>   
+{{ end }}
