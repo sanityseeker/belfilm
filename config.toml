@@ -1,6 +1,6 @@
-baseURL = 'https://belfilm.onrender.com'
+baseURL = 'https://belfilm.onrender.com/'
 languageCode = 'en-us'
-title = 'My humble photo album'
+title = 'album@belfilm'
 theme = "hugo-theme-console"
 timeout = 10000000
 publishDir = "docs"
