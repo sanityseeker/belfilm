@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>belfilm</title>
-    <link>https:///sanityseeker.github.io/belfilm/</link>
-    <description>Recent content on belfilm</description>
+    <title>My humble photo album</title>
+    <link>https://belfilm.onrender.com/</link>
+    <description>Recent content on My humble photo album</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jan 2022 14:50:31 +0000</lastBuildDate><atom:link href="https:///sanityseeker.github.io/belfilm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 14:50:31 +0000</lastBuildDate><atom:link href="https://belfilm.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other, things</title>
-      <link>https:///sanityseeker.github.io/belfilm/collections/other/</link>
+      <link>https://belfilm.onrender.com/collections/other/</link>
       <pubDate>Mon, 17 Jan 2022 14:50:31 +0000</pubDate>
       
-      <guid>https:///sanityseeker.github.io/belfilm/collections/other/</guid>
+      <guid>https://belfilm.onrender.com/collections/other/</guid>
       <description>&lt;p&gt;Small objects and compositions, uncategorized.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Portraits, people</title>
-      <link>https:///sanityseeker.github.io/belfilm/collections/portraits/</link>
+      <link>https://belfilm.onrender.com/collections/portraits/</link>
       <pubDate>Mon, 17 Jan 2022 14:50:15 +0000</pubDate>
       
-      <guid>https:///sanityseeker.github.io/belfilm/collections/portraits/</guid>
+      <guid>https://belfilm.onrender.com/collections/portraits/</guid>
       <description>&lt;p&gt;People, just that.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Around nature</title>
-      <link>https:///sanityseeker.github.io/belfilm/collections/scapes/</link>
+      <link>https://belfilm.onrender.com/collections/scapes/</link>
       <pubDate>Thu, 13 Jan 2022 00:38:23 +0000</pubDate>
       
-      <guid>https:///sanityseeker.github.io/belfilm/collections/scapes/</guid>
+      <guid>https://belfilm.onrender.com/collections/scapes/</guid>
       <description>&lt;p&gt;Landscapes, nature and objects blended with it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Seeing in streets</title>
-      <link>https:///sanityseeker.github.io/belfilm/collections/street/</link>
+      <link>https://belfilm.onrender.com/collections/street/</link>
       <pubDate>Wed, 12 Jan 2022 20:31:05 +0000</pubDate>
       
-      <guid>https:///sanityseeker.github.io/belfilm/collections/street/</guid>
+      <guid>https://belfilm.onrender.com/collections/street/</guid>
       <description>&lt;p&gt;Anything that drawed my attention in public places.&lt;/p&gt;</description>
     </item>
     

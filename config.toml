@@ -1,6 +1,6 @@
-baseURL = 'https:/sanityseeker.github.io/belfilm/'
+baseURL = 'https://belfilm.onrender.com'
 languageCode = 'en-us'
-title = 'belfilm'
+title = 'My humble photo album'
 theme = "hugo-theme-console"
 timeout = 10000000
 publishDir = "docs"
