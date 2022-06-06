@@ -10,7 +10,7 @@
     enjoy some shots :)
 </p>
 {{ if .IsTranslated }}
-<br />
+
 This site is available in the following languages:
 {{- partial "allLanguages.html" . -}}
 {{end}}
@@ -25,7 +25,6 @@ This site is available in the following languages:
 </p>
 
 {{ if .IsTranslated }}
-<br />
 Сайт доступен на следующих языках:
 {{- partial "allLanguages.html" . -}}
 {{end}}
