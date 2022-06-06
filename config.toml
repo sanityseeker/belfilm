@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"
     languageName = "Русский"
     weight = 2
   
-defaultContentLanguageInSubdir = true
+#  defaultContentLanguageInSubdir = true
 
 [markup]
   [markup.goldmark]

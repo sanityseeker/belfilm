@@ -4,7 +4,8 @@
 <p><a href="{{ .Site.BaseURL }}">Return to the home page</a>.</p>
 <img src="{{ .Site.BaseURL }}404.jpg" class="left"
     style="width:30%;max-width:1000px;margin-left:auto;margin-right:auto;display:block;">
-{{ else }}
+{{ end}}
+{{ if eq $.Site.Language.LanguageName "Russian" }}
 <h1>Страница не найдена</h1>
 <p><a href="{{ .Site.BaseURL }}">Вернуться на главную</a>.</p>
 <img src="{{ .Site.BaseURL }}404.jpg" class="left"
