@@ -4,8 +4,8 @@ date: 2022-01-17T14:50:31Z
 draft: true
 ---
 
-Small objects and compositions, uncategorized. <!--more-->
+Small objects and random compositions. <!--more-->
 
-*<sub><sup>Originals can be found [here](https://nc.access.ly/other-photos)</sup></sub>*
+*<sub><sup>Originals can be found [here](https://bit.ly/other-photos)</sup></sub>*
 
 {{< album Things >}}

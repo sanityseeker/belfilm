@@ -6,6 +6,6 @@ draft: false
 
 Landscapes, nature and objects blended with it. <!--more-->
 
-*<sub><sup>Originals can be found [here](https://nc.access.ly/scapes-photos)</sup></sub>*
+*<sub><sup>Originals can be found [here](https://bit.ly/scapes-photos)</sup></sub>*
 
 {{< album Scapes >}}
