@@ -4,6 +4,13 @@ title = 'album@belfilm'
 theme = "hugo-theme-console"
 timeout = 10000000
 publishDir = "docs"
+enableGitInfo = true
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', ':fileModTime', ':default', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
 
 [markup]
   [markup.goldmark]
