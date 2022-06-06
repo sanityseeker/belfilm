@@ -1,59 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://belfilm.onrender.com/en/sitemap.xml</loc>
     
-        
-        <url>
-            <loc>https://belfilm.onrender.com/</loc>
-            <lastmod>2022-06-06T12:37:51+01:00</lastmod>
-        </url>
-        
+      <lastmod>2022-06-06T12:37:51+01:00</lastmod>
     
-        
-        <url>
-            <loc>https://belfilm.onrender.com/collections/</loc>
-            <lastmod>2022-06-06T12:37:51+01:00</lastmod>
-        </url>
-        
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://belfilm.onrender.com/ru/sitemap.xml</loc>
     
-        
-        <url>
-            <loc>https://belfilm.onrender.com/collections/other/</loc>
-            <lastmod>2022-06-06T12:37:51+01:00</lastmod>
-        </url>
-        
+      <lastmod>2022-06-06T17:31:42+01:00</lastmod>
     
-        
-        <url>
-            <loc>https://belfilm.onrender.com/collections/portraits/</loc>
-            <lastmod>2022-06-06T02:08:44+01:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/collections/scapes/</loc>
-            <lastmod>2022-06-06T02:08:44+01:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/collections/street/</loc>
-            <lastmod>2022-06-06T02:08:44+01:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/categories/</loc>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/tags/</loc>
-        </url>
-        
-    
-</urlset>
+  </sitemap>
+  
+</sitemapindex>

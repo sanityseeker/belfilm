@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections on album@belfilm</title>
+    <link>https://belfilm.onrender.com/ru/collections/</link>
+    <description>Recent content in Collections on album@belfilm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jan 2022 14:50:31 +0000</lastBuildDate><atom:link href="https://belfilm.onrender.com/ru/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Разное</title>
+      <link>https://belfilm.onrender.com/ru/collections/other/</link>
+      <pubDate>Mon, 17 Jan 2022 14:50:31 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/other/</guid>
+      <description>Небольшие объекты и композиции с ними.
+Загрузить в оригинальном разрешении можно здесь
+                </description>
+    </item>
+    
+    <item>
+      <title>Люди, портреты</title>
+      <link>https://belfilm.onrender.com/ru/collections/portraits/</link>
+      <pubDate>Mon, 17 Jan 2022 14:50:15 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/portraits/</guid>
+      <description>&lt;p&gt;Фотографии, построенные вокруг человека в кадре.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Рядом с природой</title>
+      <link>https://belfilm.onrender.com/ru/collections/scapes/</link>
+      <pubDate>Thu, 13 Jan 2022 00:38:23 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/scapes/</guid>
+      <description>&lt;p&gt;Природа и все, что смешивается с ней.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Уличная фотография</title>
+      <link>https://belfilm.onrender.com/ru/collections/street/</link>
+      <pubDate>Wed, 12 Jan 2022 20:31:05 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/street/</guid>
+      <description>&lt;p&gt;Фотографии в общественных местах.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

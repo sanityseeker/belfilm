@@ -1,3 +1,4 @@
+{{ if eq $.Site.Language.LanguageName "English" }}
 <div class="footer">
     Powered by <a href="https://gohugo.io/">Hugo</a> with
     <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console Theme</a>.
@@ -5,5 +6,19 @@
 
     <br>
     <br>
-    <small><small>Developed on <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">Raspberry Pi4B</a>.</small></small>
+    <small><small>Developed on <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">Raspberry
+                Pi4B</a>.</small></small>
 </div>
+{{else}}
+<div class="footer">
+    Создано на основе фреймворка <a href="https://gohugo.io/">Hugo</a> с использованием темы
+    <a href="https://github.com/mrmierzejewski/hugo-theme-console/">Console</a>.
+    Сайт хостится с помощью <a href="https://pages.github.com/">GitHub Pages</a> и <a
+        href="https://render.com/">Render</a>.
+
+    <br>
+    <br>
+    <small><small>Разработан на <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">Raspberry
+                Pi4B</a>.</small></small>
+</div>
+{{end}}

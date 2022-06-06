@@ -30,7 +30,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
 
 {{ $filenames := split (readFile "/assets/randomImages") "\n" }}
-{{ range first 40 $filenames }}
+{{ range first 50 $filenames }}
 {{ $src := (resources.Get .) }}
 {{ $thumb := $src.Resize "300x q75" }}
 <a href="{{$src.Permalink}}" data-lightbox="x"><img src="{{ $thumb.Permalink }}" class="img-responsive" loading="lazy"

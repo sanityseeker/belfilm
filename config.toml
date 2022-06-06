@@ -1,4 +1,5 @@
 baseURL = 'https://belfilm.onrender.com/'
+#  baseURL = 'https://192.168.10.130/belfilm/'
 languageCode = 'en-us'
 title = 'album@belfilm'
 theme = "hugo-theme-console"
@@ -7,10 +8,20 @@ publishDir = "docs"
 enableGitInfo = true
 
 [frontmatter]
-  date = ['date', 'publishDate', 'lastmod']
-  expiryDate = ['expiryDate']
+  date = ['lastmod', 'publishDate', 'date']
   lastmod = [':git', 'lastmod', ':fileModTime', ':default', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.ru]
+    languageName = "Русский"
+    weight = 2
+  
+defaultContentLanguageInSubdir = true
 
 [markup]
   [markup.goldmark]
