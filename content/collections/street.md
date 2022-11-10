@@ -1,6 +1,6 @@
 ---
 title: "Seeing in streets"
-date: 2022-01-12T20:31:05Z
+date: 2022-11-11
 draft: false
 ---
 

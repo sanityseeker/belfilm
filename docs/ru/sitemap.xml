@@ -49,15 +49,6 @@
     
         
         <url>
-            <loc>https://belfilm.onrender.com/ru/collections/street/</loc>
-            <lastmod>2022-06-06T18:40:34+01:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/street/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/street/"/>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://belfilm.onrender.com/ru/categories/</loc>
             <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/categories/"/>
             <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/categories/"/>

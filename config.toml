@@ -1,5 +1,4 @@
 baseURL = 'https://belfilm.onrender.com/'
-#  baseURL = 'https://192.168.10.130/belfilm/'
 languageCode = 'en-us'
 title = 'album@belfilm'
 theme = "hugo-theme-console"
@@ -9,7 +8,7 @@ enableGitInfo = true
 
 [frontmatter]
   date = ['lastmod', 'publishDate', 'date']
-  lastmod = [':git', 'lastmod', ':fileModTime', ':default', 'date', 'publishDate']
+  lastmod = ['lastmod', ':git', ':fileModTime', ':default', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
 
 DefaultContentLanguage = "en"
