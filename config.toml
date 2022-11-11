@@ -7,9 +7,8 @@ publishDir = "docs"
 enableGitInfo = true
 
 [frontmatter]
-  date = ['lastmod', 'publishDate', 'date']
-  lastmod = ['lastmod', ':git', ':fileModTime', ':default', 'date', 'publishDate']
-  publishDate = ['publishDate', 'date']
+  date = ['lastmod', 'date']
+  lastmod = [':git', ':fileModTime', ':default', 'date']
 
 DefaultContentLanguage = "en"
 [languages]

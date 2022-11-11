@@ -5,7 +5,7 @@
         
         <url>
             <loc>https://belfilm.onrender.com/</loc>
-            <lastmod>2022-06-06T12:37:51+01:00</lastmod>
+            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/"/>
             <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/"/>
         </url>
@@ -14,9 +14,18 @@
         
         <url>
             <loc>https://belfilm.onrender.com/collections/</loc>
-            <lastmod>2022-06-06T12:37:51+01:00</lastmod>
+            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/"/>
             <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://belfilm.onrender.com/collections/street/</loc>
+            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/street/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/street/"/>
         </url>
         
     
