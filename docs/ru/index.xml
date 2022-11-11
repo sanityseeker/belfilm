@@ -5,42 +5,41 @@
     <link>https://belfilm.onrender.com/ru/</link>
     <description>Recent content on album@belfilm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://belfilm.onrender.com/ru/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Уличная фотография</title>
-      <link>https://belfilm.onrender.com/ru/collections/street/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://belfilm.onrender.com/ru/collections/street/</guid>
-      <description>&lt;p&gt;Фотографии в общественных местах.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Разное</title>
-      <link>https://belfilm.onrender.com/ru/collections/other/</link>
-      <pubDate>Mon, 17 Jan 2022 14:50:31 +0000</pubDate>
-      
-      <guid>https://belfilm.onrender.com/ru/collections/other/</guid>
-      <description>&lt;p&gt;Небольшие объекты и композиции с ними.&lt;/p&gt;</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://belfilm.onrender.com/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Люди, портреты</title>
       <link>https://belfilm.onrender.com/ru/collections/portraits/</link>
-      <pubDate>Mon, 17 Jan 2022 14:50:15 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://belfilm.onrender.com/ru/collections/portraits/</guid>
       <description>&lt;p&gt;Фотографии, построенные вокруг человека в кадре.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Разное</title>
+      <link>https://belfilm.onrender.com/ru/collections/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/other/</guid>
+      <description>&lt;p&gt;Небольшие объекты и композиции с ними.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Рядом с природой</title>
       <link>https://belfilm.onrender.com/ru/collections/scapes/</link>
-      <pubDate>Thu, 13 Jan 2022 00:38:23 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://belfilm.onrender.com/ru/collections/scapes/</guid>
       <description>&lt;p&gt;Природа и все, что смешивается с ней.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Уличная фотография</title>
+      <link>https://belfilm.onrender.com/ru/collections/street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/ru/collections/street/</guid>
+      <description>&lt;p&gt;Фотографии в общественных местах.&lt;/p&gt;</description>
     </item>
     
   </channel>

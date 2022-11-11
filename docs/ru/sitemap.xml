@@ -5,54 +5,9 @@
         
         <url>
             <loc>https://belfilm.onrender.com/ru/</loc>
-            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/"/>
             <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/ru/collections/</loc>
-            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/ru/collections/street/</loc>
-            <lastmod>2022-11-10T22:58:46+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/street/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/street/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/ru/collections/other/</loc>
-            <lastmod>2022-06-06T19:26:47+01:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/other/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/other/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/ru/collections/portraits/</loc>
-            <lastmod>2022-06-06T18:40:34+01:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/portraits/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/portraits/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://belfilm.onrender.com/ru/collections/scapes/</loc>
-            <lastmod>2022-06-06T18:40:34+01:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/scapes/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/scapes/"/>
         </url>
         
     
@@ -66,9 +21,54 @@
     
         
         <url>
+            <loc>https://belfilm.onrender.com/ru/collections/</loc>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/"/>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://belfilm.onrender.com/ru/tags/</loc>
             <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/tags/"/>
             <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/tags/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://belfilm.onrender.com/ru/collections/portraits/</loc>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/portraits/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/portraits/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://belfilm.onrender.com/ru/collections/other/</loc>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/other/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/other/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://belfilm.onrender.com/ru/collections/scapes/</loc>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/scapes/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/scapes/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://belfilm.onrender.com/ru/collections/street/</loc>
+            <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/street/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/street/"/>
         </url>
         
     

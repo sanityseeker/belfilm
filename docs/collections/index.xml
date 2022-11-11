@@ -5,12 +5,29 @@
     <link>https://belfilm.onrender.com/collections/</link>
     <description>Recent content in Collections on album@belfilm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://belfilm.onrender.com/collections/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://belfilm.onrender.com/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Around nature</title>
+      <link>https://belfilm.onrender.com/collections/scapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/collections/scapes/</guid>
+      <description>&lt;p&gt;Landscapes, nature and objects blended with it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portraits, people</title>
+      <link>https://belfilm.onrender.com/collections/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://belfilm.onrender.com/collections/portraits/</guid>
+      <description>&lt;p&gt;With people as a main subject.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Seeing in streets</title>
       <link>https://belfilm.onrender.com/collections/street/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://belfilm.onrender.com/collections/street/</guid>
       <description>&lt;p&gt;Anything that drawed my attention in public places.&lt;/p&gt;</description>
@@ -19,28 +36,10 @@
     <item>
       <title>Things, other</title>
       <link>https://belfilm.onrender.com/collections/other/</link>
-      <pubDate>Mon, 17 Jan 2022 14:50:31 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://belfilm.onrender.com/collections/other/</guid>
       <description>&lt;p&gt;Small objects, random compositions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portraits, people</title>
-      <link>https://belfilm.onrender.com/collections/portraits/</link>
-      <pubDate>Mon, 17 Jan 2022 14:50:15 +0000</pubDate>
-      
-      <guid>https://belfilm.onrender.com/collections/portraits/</guid>
-      <description>&lt;p&gt;With people as a main subject.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Around nature</title>
-      <link>https://belfilm.onrender.com/collections/scapes/</link>
-      <pubDate>Thu, 13 Jan 2022 00:38:23 +0000</pubDate>
-      
-      <guid>https://belfilm.onrender.com/collections/scapes/</guid>
-      <description>&lt;p&gt;Landscapes, nature and objects blended with it.&lt;/p&gt;</description>
     </item>
     
   </channel>
