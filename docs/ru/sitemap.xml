@@ -38,10 +38,10 @@
     
         
         <url>
-            <loc>https://belfilm.onrender.com/ru/collections/portraits/</loc>
+            <loc>https://belfilm.onrender.com/ru/collections/people/</loc>
             <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/portraits/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/portraits/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/people/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/people/"/>
         </url>
         
     
@@ -56,10 +56,10 @@
     
         
         <url>
-            <loc>https://belfilm.onrender.com/ru/collections/scapes/</loc>
+            <loc>https://belfilm.onrender.com/ru/collections/views/</loc>
             <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/scapes/"/>
-            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/scapes/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://belfilm.onrender.com/collections/views/"/>
+            <xhtml:link rel="alternate" hreflang="ru" href="https://belfilm.onrender.com/ru/collections/views/"/>
         </url>
         
     
